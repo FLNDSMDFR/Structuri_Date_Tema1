@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1585506295 source:c:\users\matei\c++ projects\tema1_sd\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<algorithm>
+
